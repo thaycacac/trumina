@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Trumina</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Today weather</string>
+    <string name="checkList">checkList</string>
+    <string name="compass">compass</string>
+    <string name="currency">compass</string>
+    <string name="upcoming_weekend">compass</string>
+    <string name="weather">compass</string>
+    <string name="world_clock">compass</string>
+    <string name="progress_wait">Please wait…</string>
+    <string name="check_internet">Please check your internet connectivity</string>
+    <string name="empty_description">No description available.</string>
+
+    <!-- Checklist strings -->
+    <string name="text_checklist">Checklist</string>
+    <string name="enter_task_name">Enter task name</string>
+    <string name="menu_delete_completed">Delete ticked items</string>
+    <string name="delete_tasks">Are you sure you want to delete all completed tasks?</string>
+    <string name="undo">Undo</string>
+    <string name="deleted_task_message">Deleted all completed tasks</string>
+    <string name="ticked_items_count">%1$d Ticked items</string>
+
+    <!-- Weather Strings -->
+    <string name="humidity">%1$s humidity</string>
+    <string name="text_weather">Weather Forecast</string>
+    <string name="weather_forecast_message">Check weather forecast of the city you wish to travel to!</string>
+
+    <!-- Compass Strings -->
+    <string name="text_Compass">Compass</string>
+    <string name="compass_dial">Compass Dial</string>
+    <string name="compass_hands">Compass Hands</string>
+    <string name="compass_dialog_header">Info</string>
+    <string name="compass_dialog_description">Your mobile does not support Compass</string>
+    <string name="compass_dialog_confirm">OK</string>
+
+
+    <!-- Currency Convertor Strings -->
+    <string name="text_currency">Currency Converter</string>
+    <string name="search_currencies">Search currencies..</string>
+    <string name="output_0">0.0</string>
+    <string name="convert">Convert</string>
+    <string name="sample_timezone">Asia/Kolkata</string>
+
+    <!-- Upcoming weekends Strings -->
+    <string name="upcoming_long_weekends">Upcoming long weekends</string>
+    <string name="upcoming_long_weekends_no_items">There are no upcoming events</string>
+
+    <!-- World Clock Strings -->
+    <string name="text_clock">World Clock</string>
+    <string name="select_timezone"></string>
+    <string name="search_timezone">Search Timezone..</string>
+
+    <string name="sign_out">Sign out</string>
+
+    <string name="default_status">Write something about yourself…</string>
+
+    <!-- Constant texts -->
+    <string name="text_hangout">Hangout</string>
+    <string name="text_monuments">Monuments</string>
+    <string name="text_shopping">Shopping</string>
+    <string name="text_restaurants">Restaurants</string>
+    <string name="text_city_trends">City Trends</string>
+    <string name="text_city_map">City Map</string>
+    <string name="text_login"><u>Already a member? Login</u></string>
+    <string name="text_signup_or"><u>Not registered yet? Create new account</u></string>
+    <string name="text_go">Go</string>
+    <string name="text_locate">Locate</string>
+    <string name="text_more">More</string>
+    <string name="text_title">Title</string>
+    <string name="text_call">Call</string>
+    <string name="text_book">Book</string>
+    <string name="text_joining_date">Joined on %1$s</string>
+    <string name="profile_picture_updated">Profile Picture Updated!</string>
+    <string name="text_source">"Source : "</string>
+    <string name="no_friends_message">You haven\'t added any trip with friends yet</string>
+    <string name="interest_know_more">Know More</string>
+    <string name="interest_fun_facts">Fun Facts</string>
+    <string name="interest_weather">View Weather Forecast</string>
+    <string name="interest_trends">City Trends</string>
+    <string name="status_length">22/100</string>
+    <string name="name_length">22/50</string>
+    <string name="from_text">From</string>
+    <string name="to_text">To</string>
+    <string name="usd_dollar">United States Dollar</string>
+    <string name="usd_amount">1</string>
+    <string name="vnd">VietNam Dong</string>
+
+    <!-- Currency Convertor Chart Time-Series Spinner options -->
+    <string name="time_series_prompt">Time Interval</string>
+    <string name="positive_button">OK</string>
+
+    <!--other-->
+    <string name="sample_state">Delhi</string>
+
+    <!-- Sample Data -->
+    <string-array name="time_series_array">
+        <item>7 Days</item>
+        <item>1 Month</item>
+        <item>2 Months</item>
+        <item>6 Months</item>
+        <item>1 Year</item>
+
+    </string-array>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="reset">Reset</string>
+    <string name="mark_as_completed">Mark as completed</string>
+
+</resources>
