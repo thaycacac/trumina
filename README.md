@@ -1,5 +1,12 @@
-# Trumina
+# Trumina | PRM311
 
-PRM311
+## Introduction
 
-This app is the combination of small app like as Compass, Todo list, Wheather, Convert Concurrency to help the travelers
+“Trumina” is the Mobile Android application about travel, the user has a Checklist to do when
+scheduling the trip, Convert Money when moving many countries, Weather for a city, Compass
+when u need a direction...
+
+## Some screen UI
+
+![trumina](./images/1.jpg)
+
